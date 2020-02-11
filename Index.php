@@ -24,3 +24,4 @@ while ($item = mysqli_fetch_object($row)) {
 }
 
 echo "</data>";
+?>
